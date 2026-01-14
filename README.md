@@ -1,5 +1,5 @@
-# jeopardy_data_project_2026
-A revision of the 2021-22 Jeopardy! topic classification prep work for other analysis.
+# Jeopardy Category Data with Labels
+A revision of the 2021-22 Jeopardy! topic classification work previously used for studying, and now for other analysis.
 
 This contains the following files:
 * jeopardy clue data - 2026 methods overview.ipynb, a file containing all of the python code used to develop this analysis and instructions on how it was used
